@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tex_editor">Enter your name</string>
+    <string name="Button_name">Enter</string>
+</resources>
